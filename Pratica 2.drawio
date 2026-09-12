@@ -1,0 +1,121 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="A-NR6Iex3_ODXtV10Zw_">
+    <mxGraphModel dx="1414" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1DUt19p-_BWmCI2DqXdP-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;SÍNCRONA&lt;/font&gt;" vertex="1">
+          <mxGeometry height="100" width="160" x="120" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUt19p-_BWmCI2DqXdP-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;ASSÍNCRONA&lt;/font&gt;" vertex="1">
+          <mxGeometry height="100" width="160" x="500" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUt19p-_BWmCI2DqXdP-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;PROBLEMA:&lt;/b&gt; Elaborar um seminário sobre informação e tecnologia.&lt;b&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="500" x="150" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUt19p-_BWmCI2DqXdP-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Apresentar um seminário, um vídeo e atividade sobre o tema." vertex="1">
+          <mxGeometry height="100" width="200" x="100" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUt19p-_BWmCI2DqXdP-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Apresentar um seminário, um vídeo e atividade sobre o tema." vertex="1">
+          <mxGeometry height="100" width="200" x="480" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUt19p-_BWmCI2DqXdP-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="2 horas" vertex="1">
+          <mxGeometry height="100" width="200" x="100" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUt19p-_BWmCI2DqXdP-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Vídeo Aula" vertex="1">
+          <mxGeometry height="100" width="200" x="100" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUt19p-_BWmCI2DqXdP-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Divisão de tarefas, apresentação direta com tópicos, vídeo curto, atividade de poucas questões.&lt;div&gt;30 m de apresentação.&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="200" x="100" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUt19p-_BWmCI2DqXdP-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Peso: 2,5 na nota&lt;div&gt;Caso feito completo.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="200" x="100" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUt19p-_BWmCI2DqXdP-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Caso ocorra algum problema de conecção, poderá apresentar em outra aula." vertex="1">
+          <mxGeometry height="100" width="200" x="100" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUt19p-_BWmCI2DqXdP-12" edge="1" parent="1" source="1DUt19p-_BWmCI2DqXdP-7" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="1DUt19p-_BWmCI2DqXdP-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="190" y="370" as="sourcePoint" />
+            <mxPoint x="240" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DUt19p-_BWmCI2DqXdP-14" edge="1" parent="1" source="1DUt19p-_BWmCI2DqXdP-8" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="1DUt19p-_BWmCI2DqXdP-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="170" y="505" as="sourcePoint" />
+            <mxPoint x="220" y="455" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DUt19p-_BWmCI2DqXdP-15" edge="1" parent="1" source="1DUt19p-_BWmCI2DqXdP-9" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="1DUt19p-_BWmCI2DqXdP-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="180" y="645" as="sourcePoint" />
+            <mxPoint x="230" y="595" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DUt19p-_BWmCI2DqXdP-16" edge="1" parent="1" source="1DUt19p-_BWmCI2DqXdP-10" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="1DUt19p-_BWmCI2DqXdP-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="170" y="785" as="sourcePoint" />
+            <mxPoint x="200" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DUt19p-_BWmCI2DqXdP-17" edge="1" parent="1" source="1DUt19p-_BWmCI2DqXdP-11" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="1DUt19p-_BWmCI2DqXdP-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="170" y="930" as="sourcePoint" />
+            <mxPoint x="220" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DUt19p-_BWmCI2DqXdP-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="1 semana" vertex="1">
+          <mxGeometry height="100" width="200" x="480" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUt19p-_BWmCI2DqXdP-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sala de Aula" vertex="1">
+          <mxGeometry height="100" width="200" x="480" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUt19p-_BWmCI2DqXdP-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Domínio de conteúdo,&amp;nbsp; apresentação detalhada, produzir vídeo, atividade com perguntas pra cair em prova.&lt;div&gt;1 hora de apresentação.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="200" x="480" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUt19p-_BWmCI2DqXdP-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Peso: 4 pontos na nota&lt;div&gt;Dependendo da apresentação.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="200" x="480" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUt19p-_BWmCI2DqXdP-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Caso não seja feito alguma etapa, será reduzido a nota." vertex="1">
+          <mxGeometry height="100" width="200" x="480" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUt19p-_BWmCI2DqXdP-24" edge="1" parent="1" source="1DUt19p-_BWmCI2DqXdP-18" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="1DUt19p-_BWmCI2DqXdP-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="550" y="360" as="sourcePoint" />
+            <mxPoint x="600" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DUt19p-_BWmCI2DqXdP-25" edge="1" parent="1" source="1DUt19p-_BWmCI2DqXdP-19" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="1DUt19p-_BWmCI2DqXdP-18" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="560" y="510" as="sourcePoint" />
+            <mxPoint x="610" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DUt19p-_BWmCI2DqXdP-26" edge="1" parent="1" source="1DUt19p-_BWmCI2DqXdP-20" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="1DUt19p-_BWmCI2DqXdP-19" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="550" y="650" as="sourcePoint" />
+            <mxPoint x="600" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DUt19p-_BWmCI2DqXdP-27" edge="1" parent="1" source="1DUt19p-_BWmCI2DqXdP-21" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="1DUt19p-_BWmCI2DqXdP-20" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="560" y="780" as="sourcePoint" />
+            <mxPoint x="610" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DUt19p-_BWmCI2DqXdP-28" edge="1" parent="1" source="1DUt19p-_BWmCI2DqXdP-22" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="1DUt19p-_BWmCI2DqXdP-21" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="550" y="920" as="sourcePoint" />
+            <mxPoint x="600" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DUt19p-_BWmCI2DqXdP-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;ul&gt;&lt;li&gt;A versão Assícrona, pois disponibilizou muito mais tempo para&amp;nbsp; a elaboração&lt;/li&gt;&lt;li&gt;A versão Síncrona, pois não é cobrado mais do que da outra versão e ainda pode apresentar em outra aula, caso tenha problema de conexão.&lt;/li&gt;&lt;li&gt;De forma Síncrona: será através da chamada feita durante a aula online, de forma Assícrona: será através da presença na apresentação.&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="110" width="640" x="60" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="1DUt19p-_BWmCI2DqXdP-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Respostas das perguntas de Análise:" vertex="1">
+          <mxGeometry height="30" width="190" x="80" y="1090" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
